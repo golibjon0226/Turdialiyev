@@ -1,6 +1,5 @@
 # G-olibjon
 Information about me 
-@@ -21,27 +21,27 @@
 <h1>🛠 Me Stack</h1>
 - 💻 &nbsp;   `.cs`  | `.html` | `.css` | `.js`
 - 🌐 &nbsp; .NET 6/5 | MVC | Blazor | WebApi
