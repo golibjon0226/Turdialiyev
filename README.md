@@ -1,6 +1,6 @@
 <a href="https://t.me/......"><img src="greeting.jpg" align="right" height="200"/></a>
 
-# Hi there, I'm Nuriddin 👋
+# Hi there, I'm G'olibjjon 👋
 
 > .Net enthusiast!
 <br/><br/>
@@ -41,7 +41,7 @@
 [![Turdialiyev's Streak](https://github-readme-streak-stats.herokuapp.com?user=Turdialiyev&theme=dark&date_format=M%20j%5B%2C%20Y%5D&border=FFFFFF&ring=3722DD)](https://git.io/streak-stats)
 
 <p align="center">
-    <a href="https://leetcode.com/............./"><img width="50%" src="https://leetcode.card.workers.dev/...........?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
+    <a href="https://leetcode.com/golibjonturdialiyev0226/"><img width="50%" src="https://leetcode.card.workers.dev/golibjonturdialiyev0226/?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
 </p>
   
 [![](https://komarev.com/ghpvc/?username=Turdialiyev&color=orange&label=Profile%20Views)](https://github.com/Turdialiyev/Turdialiyev)
