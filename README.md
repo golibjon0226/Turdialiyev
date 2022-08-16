@@ -1,6 +1,6 @@
 <a href="https://t.me/......"><img src="greeting.jpg" align="right" height="200"/></a>
 
-# Hi there, I'm G'olibjjon 👋
+# Hi there, I'm G'olibjon 👋
 
 > .Net enthusiast!
 <br/><br/>
