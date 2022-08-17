@@ -1,4 +1,4 @@
-<a href="https://github.com/Turdialiyev/Information/blob/main/picture/photo_2022-08-16_17-48-01.jpg"><img src="greeting.jpg" align="right" height="200"/></a>
+<a href="https://github.com/Turdialiyev/Information/blob/main/picture/photo_2022-08-16_17-48-01.jpg"><img src="https://github.com/Turdialiyev/Information/blob/main/picture/photo_2022-08-16_17-48-01.jpg?raw=true" align="right" height="200"/></a>
 
 # Hi there, I'm G'olibjon 👋
 
