@@ -1,4 +1,8 @@
-<a href="https://github.com/Turdialiyev/Information/blob/main/picture/photo_2022-08-16_17-48-01.jpg"><img src="https://github.com/Turdialiyev/Information/blob/main/picture/photo_2022-08-16_17-48-01.jpg?raw=true" align="right" height="200"/></a>
+<p>
+<a href="https://github.com/Turdialiyev/Information/blob/main/picture/photo_2022-08-16_17-48-01.jpg"><img 
+src="https://github.com/Turdialiyev/Information/blob/main/picture/photo_2022-08-16_17-48-01.jpg?raw=true" align="right" height="200"/></a>
+
+
 
 # Hi there, I'm G'olibjon 👋
 
@@ -12,6 +16,7 @@
 <a href="https://instagram.com/..............."><img alt="Instagram" src="https://img.shields.io/badge/instagram-gray?style=flat-square&logo=instagram"></a>
  
 
+</p>
 <h1> 👨🏻‍💻 Me now </h1>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
