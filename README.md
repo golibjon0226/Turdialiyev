@@ -1,22 +1,19 @@
-<p>
-<a href="https://github.com/Turdialiyev/Information/blob/main/picture/photo_2022-08-16_17-48-01.jpg"><img 
-src="https://github.com/Turdialiyev/Information/blob/main/picture/photo_2022-08-16_17-48-01.jpg?raw=true" align="right" height="200"/></a>
-
-
+<a href="https://t.me/Turdialiyev"><img src="34f9c20179ef29ce7b8c1f52359cf9d3-sticker.png" align="right" height="200"/></a>
 
 # Hi there, I'm G'olibjon 👋
 
-> .Net enthusiast!
-<br/><br/>
+> A software engineer building awesome web back/front stuff using .NET tech-stack at `Gluwa inc`. A proud co-founder of `Ilmhub IT School` where we educate future software engineers. A loving father to a lovely cute little daughter 👨‍🍼.
+<br/><br/><br/>
 
 <p align="end">
-<a href="https://dev.to/......."><img alt="Dev.to" src="https://img.shields.io/badge/Dev.to-gray?style=flat-square&logo=dev-to"></a>
-<a href="https://www.linkedin.com/in/ ......./"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-gray?style=flat-square&logo=linkedin"></a>
-<a href="https://t.me/............."><img alt="Telegram" src="https://img.shields.io/badge/telegram-gray?style=flat-square&logo=telegram"></a>
-<a href="https://instagram.com/..............."><img alt="Instagram" src="https://img.shields.io/badge/instagram-gray?style=flat-square&logo=instagram"></a>
- 
-
+<a href="https://dev.to/wahidd"><img alt="Dev.to" src="https://img.shields.io/badge/Dev.to-gray?style=flat-square&logo=dev-to"></a>
+<a href="https://twitter.com/wahid_dev" target="blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-gray?style=flat-square&logo=twitter"/></a> 
+<a href="https://www.linkedin.com/in/wahidabduhakimov/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-gray?style=flat-square&logo=linkedin"></a>
+<a href="https://t.me/wahid_abduhakimov"><img alt="Telegram" src="https://img.shields.io/badge/telegram-gray?style=flat-square&logo=telegram"></a>
+<a href="https://instagram.com/wahid.abduhakimov"><img alt="Instagram" src="https://img.shields.io/badge/instagram-gray?style=flat-square&logo=instagram"></a>
+<a href="https://facebook.com/wahid.abduhakimov"><img alt="Facebook" src="https://img.shields.io/badge/facebook-gray?style=flat-square&logo=facebook"></a>
 </p>
+
 <h1> 👨🏻‍💻 Me now </h1>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
