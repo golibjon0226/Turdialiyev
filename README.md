@@ -5,7 +5,7 @@
 
 <p align="end">
 <a href="https://t.me/wahid_abduhakimov"><img alt="Telegram" src="https://img.shields.io/badge/telegram-gray?style=flat-square&logo=telegram"></a>
-<a href="https://instagram.com/wahid.abduhakimov"><img alt="Instagram" src="https://img.shields.io/badge/instagram-gray?style=flat-square&logo=instagram"></a>
+<a href="https://instagram.com/@golibjonturdialiyev0226"><img alt="Instagram" src="https://img.shields.io/badge/instagram-gray?style=flat-square&logo=instagram"></a>
 <a href="https://facebook.com/wahid.abduhakimov"><img alt="Facebook" src="https://img.shields.io/badge/facebook-gray?style=flat-square&logo=facebook"></a>
 </p>
 
