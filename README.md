@@ -2,8 +2,6 @@
 
 # Hi there, I'm G'olibjon 👋
 
-> A software engineer building awesome web back/front stuff using .NET tech-stack at `Gluwa inc`. A proud co-founder of `Ilmhub IT School` where we educate future software engineers. A loving father to a lovely cute little daughter 👨‍🍼.
-<br/><br/><br/>
 
 <p align="end">
 <a href="https://t.me/wahid_abduhakimov"><img alt="Telegram" src="https://img.shields.io/badge/telegram-gray?style=flat-square&logo=telegram"></a>
